@@ -35,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Google Cloud Vision API keyfile
+keyfile.json
+
+# bash files
+.*~
